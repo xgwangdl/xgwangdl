@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @xgwangdl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 大连光哥
 
-<!---
-xgwangdl/xgwangdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 个人简介
+
+你好！我是大连光哥，一名对 **JAVA 技术** 充满热情的开发者。目前我正在学习 **AI 相关知识**，并希望在这个领域有所突破。
+
+## 技术兴趣
+
+- **JAVA 开发**
+- **人工智能 (AI)**
+- **机器学习**
+
+## 联系方式
+
+如果你有任何问题或想与我交流，欢迎通过以下方式联系我：
+
+- **邮箱**: [xgwangdl@163.com](mailto:xgwangdl@163.com)
+
+## 社交平台
+
+你也可以在以下平台找到我：
+
+- [GitHub](https://github.com/xgwangdl)
+
+---
+
+感谢你的访问！期待与你交流与合作！
